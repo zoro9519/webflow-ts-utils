@@ -308,7 +308,7 @@ This util removes all the spaces of a string.
 
 ## `removeTrailingSlash()`
 
-Compares if two arrays have the same exact values.
+Removes the trailing slash from the passed string.
 
 | param           | value                |
 | --------------- | -------------------- |
